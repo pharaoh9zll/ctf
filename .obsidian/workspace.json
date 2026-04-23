@@ -4,39 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "305e26cea4944209",
+        "id": "fdec316aab1625a9",
         "type": "tabs",
-        "dimension": 59.383033419023135,
         "children": [
           {
-            "id": "1e51fc4590d68791",
+            "id": "9c89eb9d14920a8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "欢迎.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "欢迎"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4837474833e4186e",
-        "type": "tabs",
-        "dimension": 40.616966580976865,
-        "children": [
-          {
-            "id": "bdce48576831d6ff",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
@@ -112,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -131,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "欢迎.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "欢迎 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -174,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "欢迎.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "欢迎 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -198,12 +173,14 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:新建数据库": false
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e51fc4590d68791",
+  "active": "9c89eb9d14920a8e",
   "lastOpenFiles": [
-    "创建链接.md",
-    "欢迎.md"
+    "欢迎.md",
+    "未命名.base",
+    "创建链接.md"
   ]
 }
